@@ -77,7 +77,7 @@ Use these commands to interact with the token wallet:
 - Check Token Balance :
 
   bash
-  dfx canister call token_wallet_backend balance "(\"owner-address\")"
+  dfx canister call token_wallet_backend balance "(\"r4nzy-faeaa-aaaaa-qaaca-cai\")"
   
 
 7. Running Unit Tests
