@@ -18,7 +18,7 @@ Steps to Run the Project :-
 Open a terminal and run the following command to clone the project:
 
 bash
-git clone https://github.com/Noraku-afk/Token_Wallet.git
+git clone https://github.com/Noraku-afk/Token-Wallet
 cd token_wallet
 
 
